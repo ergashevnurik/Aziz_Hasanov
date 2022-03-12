@@ -1,0 +1,76 @@
+
+.krd11 {
+	color: red;
+}
+
+h3, h1 {
+	text-align: center!important ;
+}
+
+section {
+		
+
+}
+
+img {
+	width: 100%;	
+}
+
+.parent {
+	display: flex;
+}
+
+.child {
+	width: calc(100% / 3);
+	border: 2px solid red;
+	margin: 15px;
+}
+
+ul {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	list-style: none;
+}
+
+li {
+	padding: 25px;
+
+
+}
+
+
+a {
+	text-decoration: none;
+	color: red;
+	font-size: 18px;
+}
+
+li.krd5 {
+	background: transparent;
+}
+
+li {
+	background: black;
+}
+.ghoste img {
+	width: 500px;
+	height: 500px;
+}
+h1 {
+
+}
+.krd {
+	color: white;
+}
+body {
+	background-image: url(https://www.stratege.ru/forums/files/gallery/1/645/724/be4fcf0641cbab5afa4fd240baa833ca.jpg);
+}
+.krd5 {
+width: 110px;
+height: 110px;
+}
+
+body {
+	flex-wrap: wrap;
+}
